@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerry.</h1>
+<h1 align="center">Hi 👋🏾, I'm Jerry.</h1>
 <h2 align="center">A Professional in Lagos, Nigeria.</h2>
 
 
