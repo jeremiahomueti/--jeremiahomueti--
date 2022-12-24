@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerry.</h1>
-<h3 align="center">A Professional in Lagos, Nigeria.</h3>
+<h2 align="center">A Professional in Lagos, Nigeria.</h2>
+
 
 <img align="right" alt="GitCat_Img" width="400" src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif">
 <h3 align="center">Languages and Tools:</h3>
